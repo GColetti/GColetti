@@ -4,6 +4,6 @@
 
 <!-- ![GColetti's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=GColetti) -->
 
-⚡ Fun fact: I created a hack-resistant password as a kid
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gianlucacoletti/)
+
+⚡ Fun fact: I created a hack-resistant password as a kid
