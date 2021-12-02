@@ -1,4 +1,4 @@
-⚡ Fun fact: I created a hack-resistant password as a kid
+<!--- ⚡ Fun fact: I created a hack-resistant password as a kid -->
 
 [![GColetti's Github Stats](https://github-readme-stats.vercel.app/api?username=GColetti&theme=github_dark&show_icons=true)](https://github.com/GColetti/github-readme-stats)
 
